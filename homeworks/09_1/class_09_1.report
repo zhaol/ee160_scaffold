@@ -1,0 +1,71 @@
+The program did not successfully handle the following scenario:
+the program was given the following input:
+2.1
+
+and produced the following incorrect output:
+Please enter your number:
+2.100000
+4.410000
+9.261000
+19.448100
+40.841010
+85.766121
+180.108854
+378.228594
+794.280047
+1667.988098
+3502.775005
+7355.827511
+15447.237774
+32439.199325
+68122.318583
+143056.869024
+300419.424951
+630880.792397
+1324849.664033
+2782184.294470
+5842587.018386
+12269432.738611
+25765808.751082
+54108198.377273
+113627216.592272
+
+(Note: If the program is missing newline characters, the formatting of the reported output will be missing newline characters as well. This will make the reported output harder to read.)
+-> -50
+Assignment Grade: 50
+The program did not successfully handle the following scenario:
+the program was given the following input:
+2.1
+
+and produced the following incorrect output:
+Please enter your number:
+2.100000
+4.409999
+9.260999
+19.448097
+40.841003
+85.766106
+180.108810
+378.228485
+794.279785
+1667.987427
+3502.773438
+7355.823730
+15447.229492
+32439.179688
+68122.273438
+143056.765625
+300419.187500
+630880.250000
+1324848.500000
+2782181.750000
+5842581.500000
+12269421.000000
+25765782.000000
+54108140.000000
+113627088.000000
+
+(Note: If the program is missing newline characters, the formatting of the reported output will be missing newline characters as well. This will make the reported output harder to read.)
+-> -50
+Assignment Grade: 50
+Assignment Grade: 100
